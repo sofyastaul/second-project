@@ -1,0 +1,9 @@
+.cards__row {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+}
+
+.cards__row:first-of-type {
+  margin-bottom: 60px;
+}

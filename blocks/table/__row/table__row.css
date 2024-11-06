@@ -1,0 +1,9 @@
+.table__row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.table__row:first-of-type {
+  margin-bottom: 60px;
+}
