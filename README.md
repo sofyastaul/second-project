@@ -16,7 +16,7 @@
 - пути к файлам и организация файлов по БЭМ.
 
 
-### ![Ссылка на сайт](https://sofyastaul.github.io/second-project/)
+### [Ссылка на сайт](https://sofyastaul.github.io/second-project/)
 
 
 ### Функционал
